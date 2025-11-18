@@ -2,7 +2,7 @@
 
 **Student Name:** Husni Alfar  
 **Student ID:** M01002718  
-**Course:** CST1510 – CW2 – CST1510 Programming For Data Communications and Networks
+**Course:** CST1510 – CW2 – CST1510 Multi Domain Intelligence Platform
 
 ---
 
